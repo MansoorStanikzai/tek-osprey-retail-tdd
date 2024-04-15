@@ -23,7 +23,7 @@ public class SecurityTest extends BaseUITests {
     public void validLoginWithValidCredentials(String username, String password) {
         /*
         Navigate to sign in page and sign in with valid username and password.
-        Validate user successfully signed in
+        Validate user successfully signed in...
          */
         clickOnElement(homePage.signInButton);
 
